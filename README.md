@@ -1,6 +1,6 @@
 # WildLife
 
-The WildLife is very very simple website. It contain information and history of wild animals. 
+The WildLife is very very simple website. It contain information and history of wild animals. In Future Version this project will improve the design 
 
 ---
 
