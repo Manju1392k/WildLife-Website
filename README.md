@@ -15,7 +15,7 @@ No Responsive Design
 # Framework
 
 The Below Table framework's is used in this project. To run this project .This framework has installed in system with same Version or Latest Version.
-For Modules Version. Checkout package.json file.
+For Any Modules Version. Checkout package.json file.
 
 | Framework  | Version |
 | ------------- | ------------- |
